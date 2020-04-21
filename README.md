@@ -9,4 +9,5 @@ It contains all the icons provided with the pack. After import you can filter th
 
 ## Usage
 Download the latest .afassets file fromt the [releases](https://github.com/B4rt0/Font-Awesome-Affinity-Assets/releases), then in your Affinity app of choice open Assets pane and use menu icon to import assets file as shown on the screenshot below:
+
 <img src="https://i.imgur.com/YgbmBur.png" alt="Affinity Import" />
